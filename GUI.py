@@ -66,7 +66,7 @@ class MyWidget(QtWidgets.QWidget):
         layout.addWidget(file_path_button5)
 
         #button refresh
-        file_path_button6 = QtWidgets.QPushButton('wav in txt')
+        file_path_button6 = QtWidgets.QPushButton('button refresh')
         file_path_button6.clicked.connect(self.refresh)
         layout.addWidget(file_path_button6)
 
