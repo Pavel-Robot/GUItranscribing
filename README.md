@@ -1,4 +1,4 @@
-See https://github.com/Black-coffe/AudioExtractor-and-Transcriber)
+See https://github.com/Black-coffe/AudioExtractor-and-Transcriber
 
 I simple create GUI on PyQT6 for it script.
 
